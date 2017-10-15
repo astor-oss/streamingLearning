@@ -6,6 +6,16 @@ If you run Flink in a massively parallel setting \(100+ parallel threads\), you 
 
 # 2. zookeeper高可用性设置
 
+high-availability: zookeeper
+
+high-availability.zookeeper.quorum: 192.168.1.81:2181,192.168.1.82:2181
+
+high-availability.zookeeper.path.root: /flink
+
+high-availability.zookeeper.path.cluster-id: /cluster\_one
+
+high-availability.zookeeper.storageDir: hdfs://192.168.1.81:8020/flink/ha/
+
 # 3. rocksdb 高可用性设置
 
 
