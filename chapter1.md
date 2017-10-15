@@ -6,7 +6,7 @@ If you run Flink in a massively parallel setting \(100+ parallel threads\), you 
 
 
 
-
+# 2. taskmananger.network.numberOfBuffers设置
 
 
 
