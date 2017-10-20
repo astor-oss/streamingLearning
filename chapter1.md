@@ -18,5 +18,13 @@ high-availability.zookeeper.storageDir: hdfs://192.168.1.81:8020/flink/ha/
 
 # 3. rocksdb 高可用性设置
 
+state.backend: rocksdb
+
+state.checkpoints.dir: hdfs://192.168.1.81:8020/flink/rocksdb/metapoint
+
+state.backend.fs.checkpointdir: file:///flink/rocksdb/datapoint
+
+
+
 
 
