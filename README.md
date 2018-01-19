@@ -6,4 +6,5 @@
 - Eagle
 
 ## 版本
-
+ - v0.1 Flink optimation
+ - v0.2 Eagle learning
