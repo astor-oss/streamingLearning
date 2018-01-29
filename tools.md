@@ -11,3 +11,6 @@
 
 4. pandoc
     - all kinds doc convert
+
+5. vim 
+    - Apvlv for pdb
