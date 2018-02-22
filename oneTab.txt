@@ -1,0 +1,19 @@
+https://wso2.github.io/siddhi/documentation/siddhi-4.0/#insert | Siddhi Query Guide - WSO2 Siddhi
+https://wso2.github.io/siddhi/documentation/siddhi-architecture/ | Siddhi Architecture - WSO2 Siddhi
+http://ifeve.com/disruptor-dsl/ | LMAX Disruptor——一个高性能、低延迟且简单的框架 | 并发编程网 – ifeve.com
+https://git.zetvision.io/zets/rt-kickoff/issues | Issues · zets / rt-kickoff · GitLab
+https://www.slideshare.net/Hadoop_Summit/open-metadata-and-governance-with-apache-atlas
+http://atlas.apache.org/ | Apache Atlas – Data Governance and Metadata framework for Hadoop
+http://atlas.apache.org/Architecture.html | Apache Atlas – Architecture
+https://github.com/pravega/pravega/blob/master/docs/deployment/deployment.md | pravega/deployment.md at master · pravega/pravega
+https://github.com/apache/bookkeeper | apache/bookkeeper: Apache Bookkeeper
+https://github.com/397090770/FlinkForward201704 | 397090770/FlinkForward201704: Flink Forward 2017-04-10 &11 ppt
+https://www.google.com.hk/search?q=CQRS+&gws_rd=cr&dcr=0&ei=KW98WqLJG4vS8wXvnpGYAw
+http://edisonxu.org/2017/03/23/hello-cqrs.html | CQRS和Event Sourcing系列（二）：基本概念 | Edison Xu's Blog
+http://www.cnblogs.com/yangecnu/p/Introduction-CQRS.html | 浅谈命令查询职责分离(CQRS)模式 - yangecnu - 博客园
+https://medium.com/netflix-techblog/netflix-chaos-monkey-upgraded-1d679429be5d
+https://github.com/Netflix/chaosmonkey | Netflix/chaosmonkey: Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+https://netflix.github.io/chaosmonkey/ | Home - Chaos Monkey
+https://www.google.com.hk/search?q=dynamo+storage&gws_rd=cr&dcr=0&ei=iwh9WtHzKoq80AT74r3IBg | dynamo storage - Google 搜索
+https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf | Microsoft Word - sosp067-decandia1.doc
+https://www.google.com.hk/search?q=netflix+c*&oq=netflix+c*&aqs=chrome..69i57j0l5.4590j0j1&sourceid=chrome&ie=UTF-8 | netflix c* - Google 搜索
