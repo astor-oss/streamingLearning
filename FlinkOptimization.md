@@ -28,4 +28,18 @@ state.backend.fs.checkpointdir: file:///flink/rocksdb/datapoint
 # 4. flink Forward ppt
 https://github.com/397090770/FlinkForward201704.git
 
-# 5.
+# 5. Ref
+
+flink-siddhi: https://github.com/haoch/flink-siddhi.git
+
+Athenax: https://github.com/uber/AthenaX.git
+
+calciteDemo: https://github.com/hzxjtx/calciteDemo.git
+
+flink-benchmark: https://github.com/dataArtisans/yahoo-streaming-benchmark.git
+
+flink-sql: https://huzongxing@bitbucket.org/huzongxing/flinksql.git
+
+rt-poc: https://huzongxing@bitbucket.org/zetdata/rt-poc.git
+
+
