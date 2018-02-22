@@ -42,4 +42,4 @@ flink-sql: https://huzongxing@bitbucket.org/huzongxing/flinksql.git
 
 rt-poc: https://huzongxing@bitbucket.org/zetdata/rt-poc.git
 
-
+k8s: https://github.com/feiskyer/kubernetes-handbook.git
